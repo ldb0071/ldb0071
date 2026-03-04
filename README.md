@@ -2,11 +2,6 @@
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" alt="Programming meme" />
 
-<p align="center" style="margin: 12px 0;">
-  <strong style="font-size: 1.8em;">ZAKARIA</strong><br/>
-  <span style="color: #00D9FF;">Computer Vision Engineer | AI Researcher | PhD Student</span>
-</p>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=680&height=90&lines=Welcome+to+my+digital+workspace+%F0%9F%9A%80;Computer+Vision+Engineer+%26+AI+Researcher" alt="Typing SVG" />
 
 <p align="center" style="margin: 16px 0;">

@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=ZAKARIA&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20PhD%20Student&descAlignY=55&descSize=20" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=ZAKARIA&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Computer%20Vision%20Engineer%20%7C%20AI%20Researcher%20%7C%20PhD%20Student&descAlignY=55&descSize=20" alt="header" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Welcome+to+my+digital+workspace+%F0%9F%9A%80;Where+AI+meets+Computer+Vision" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Welcome+to+my+digital+workspace+%F0%9F%9A%80;Computer+Vision+Engineer+%26+AI+Researcher" alt="Typing SVG" />
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/👁️‍🗨️_Computer_Vision_Engineer-00D9FF?style=for-the-badge&logoColor=white" alt="Computer Vision Engineer" />
   <img src="https://img.shields.io/badge/🎓_PhD_Student-0078D4?style=for-the-badge&logoColor=white" alt="PhD Student" />
-  <img src="https://img.shields.io/badge/🤖_AI_Engineer-FF6B35?style=for-the-badge&logoColor=white" alt="AI Engineer" />
-  <img src="https://img.shields.io/badge/👁️_Computer_Vision_Engineer-00D9FF?style=for-the-badge&logoColor=white" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/🤖_AI_Researcher-FF6B35?style=for-the-badge&logoColor=white" alt="AI Researcher" />
   <img src="https://img.shields.io/badge/📍_Italy-28A745?style=for-the-badge&logoColor=white" alt="Location Italy" />
 </div>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=800&color=FFD700&center=true&vCenter=true&width=800&lines=Building+intelligent+systems+that+see+and+understand+🔍;5+years+crafting+ML+%26+CV+solutions+⚡;From+research+papers+to+production+systems+📊;Open+to+collaboration+and+innovation+🤝" alt="Dynamic Bio" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=800&color=FFD700&center=true&vCenter=true&width=900&lines=Engineering+intelligent+systems+that+see+%26+understand+the+world+🔍;5+years+building+Computer+Vision+%26+ML+solutions+⚡;From+cutting-edge+research+to+production+CV+systems+📊;Transforming+visual+data+into+actionable+insights+🎯" alt="Dynamic Bio" />
 
 <br/><br/>
 
@@ -93,9 +93,9 @@
 <tr>
 <td align="center" style="border: none; background: transparent; padding: 20px;">
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" alt="Research Animation" />
-<h3>🔬 Active Research Areas</h3>
-<p><strong>Computer Vision</strong> • <strong>Anomaly Detection</strong> • <strong>Transformers</strong><br/>
-<strong>House Price Prediction</strong> • <strong>Image Preprocessing</strong> • <strong>Deep Learning Applications</strong></p>
+<h3>🔬 Computer Vision Engineering</h3>
+<p><strong>Computer Vision Systems</strong> • <strong>Anomaly Detection</strong> • <strong>Vision Transformers</strong><br/>
+<strong>Image & Video Processing</strong> • <strong>3D Computer Vision</strong> • <strong>Production ML Systems</strong></p>
 </td>
 <td align="center" style="border: none; background: transparent; padding: 20px;">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="Scholar Animation" />
@@ -239,7 +239,7 @@ Your support helps fuel more <strong>innovative research</strong>.</p>
 <br/>
 
 <p align="center">
-<em>"Building intelligent systems at the intersection of research and engineering, one commit at a time."</em>
+<em>"Engineering Computer Vision solutions that bridge the gap between cutting-edge research and real-world applications."</em>
 </p>
 
 <br/>

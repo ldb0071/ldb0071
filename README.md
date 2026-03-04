@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=ZAKARIA&fontSize=56&fontColor=ffffff&fontAlignY=32&desc=Computer%20Vision%20Engineer%20%7C%20AI%20Researcher%20%7C%20PhD%20Student&descAlignY=52&descSize=18" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,12,20,30&height=180&section=header&text=ZAKARIA&fontSize=56&fontColor=ffffff&fontAlignY=32&desc=Computer%20Vision%20Engineer%20%7C%20AI%20Researcher%20%7C%20PhD%20Student&descAlignY=52&descSize=18" alt="header" />
 
 <br/>
 
@@ -148,7 +148,7 @@ PhD work in intelligent systems
 <table align="center" style="border: none;">
 <tr>
 <td align="center" style="border: none; padding: 8px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ldb0071&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=FF6B35&text_color=a9b1d6" height="180" alt="GitHub Stats" />
+  <a href="https://github.com/ldb0071"><img src="https://github-readme-stats.vercel.app/api?username=ldb0071&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=FF6B35&text_color=a9b1d6" height="180" alt="GitHub Stats" /></a>
 </td>
 <td align="center" style="border: none; padding: 8px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ldb0071&theme=tokyonight&hide_border=true&background=1a1b27&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideNums=a9b1d6&currStreakNum=00D9FF&dates=a9b1d6" height="180" alt="GitHub Streak" />

@@ -1,8 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,12,20,30&height=180&section=header&text=ZAKARIA&fontSize=56&fontColor=ffffff&fontAlignY=32&desc=Computer%20Vision%20Engineer%20%7C%20AI%20Researcher%20%7C%20PhD%20Student&descAlignY=52&descSize=18" alt="header" />
+<img src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=1200&q=80" width="100%" alt="Programming header — code on screen" />
 
-<br/>
+<p align="center" style="margin: 12px 0;">
+  <strong style="font-size: 1.8em;">ZAKARIA</strong><br/>
+  <span style="color: #00D9FF;">Computer Vision Engineer | AI Researcher | PhD Student</span>
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=680&height=90&lines=Welcome+to+my+digital+workspace+%F0%9F%9A%80;Computer+Vision+Engineer+%26+AI+Researcher" alt="Typing SVG" />
 

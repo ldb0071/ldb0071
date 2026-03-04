@@ -22,7 +22,73 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=divider" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,8,12,20,30&height=3&section=divider" alt="divider" />
+
+<br/>
+
+### &#x1f4ca; GitHub Analytics
+
+<table align="center" style="border: none;">
+<tr>
+<td align="center" style="border: none; padding: 8px;">
+  <a href="https://github.com/ldb0071"><img src="https://github-readme-stats.vercel.app/api?username=ldb0071&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=FF6B35&text_color=a9b1d6" height="180" alt="GitHub Stats" /></a>
+</td>
+<td align="center" style="border: none; padding: 8px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ldb0071&theme=tokyonight&hide_border=true&background=1a1b27&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideNums=a9b1d6&currStreakNum=00D9FF&dates=a9b1d6" height="180" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldb0071&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&text_color=a9b1d6&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ldb0071&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&title_color=FFFFFF&area=true" alt="Contribution Graph" width="90%" />
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,8,12,20,30&height=3&section=divider" alt="divider" />
+
+<br/>
+
+### &#x1f680; Featured Projects
+
+<table align="center" style="border: none;">
+<tr>
+<td align="center" width="50%" style="border: none; padding: 12px;">
+<a href="https://github.com/ldb0071/video_generation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ldb0071&repo=video_generation&theme=tokyonight&bg_color=1a1b27&border_color=00D9FF&title_color=00D9FF&text_color=a9b1d6&icon_color=FF6B35" alt="Video Generation App" />
+</a>
+<p><strong>Video Generation App</strong> — RAG-powered AI with DALL·E 3 and Replicate. FastAPI, React, Computer Vision, Generative AI.</p>
+</td>
+<td align="center" width="50%" style="border: none; padding: 12px;">
+<a href="https://github.com/ldb0071/Boosting-House-Price-Estimations-with-Multi-Head-Gated-Attention">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ldb0071&repo=Boosting-House-Price-Estimations-with-Multi-Head-Gated-Attention&theme=tokyonight&bg_color=1a1b27&border_color=00D9FF&title_color=00D9FF&text_color=a9b1d6&icon_color=FF6B35" alt="House Price ML" />
+</a>
+<p><strong>House Price ML Model</strong> — Multi-head gated attention for price prediction. Deep Learning, Attention, Regression.</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" style="border: none; padding: 12px;">
+<a href="https://github.com/ldb0071/Photoshop_Preprocessing">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ldb0071&repo=Photoshop_Preprocessing&theme=tokyonight&bg_color=1a1b27&border_color=00D9FF&title_color=00D9FF&text_color=a9b1d6&icon_color=FF6B35" alt="Photoshop Preprocessing" />
+</a>
+<p><strong>Image Preprocessing Suite</strong> — Professional image utilities and enhancement tools. Computer Vision, OpenCV.</p>
+</td>
+<td align="center" width="50%" style="border: none; padding: 12px;">
+<a href="https://github.com/ldb0071/Mesh_3d">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ldb0071&repo=Mesh_3d&theme=tokyonight&bg_color=1a1b27&border_color=00D9FF&title_color=00D9FF&text_color=a9b1d6&icon_color=FF6B35" alt="3D Mesh" />
+</a>
+<p><strong>3D Mesh Processing</strong> — 3D geometry processing and visualization. TypeScript, 3D Graphics.</p>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,8,12,20,30&height=3&section=divider" alt="divider" />
 
 <br/>
 
@@ -67,13 +133,9 @@
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ldb0071&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&title_color=FFFFFF&area=true" alt="Contribution Graph" width="90%" />
-</p>
-
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=divider" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,8,12,20,30&height=3&section=divider" alt="divider" />
 
 <br/>
 
@@ -100,69 +162,7 @@ PhD work in intelligent systems
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=divider" alt="divider" />
-
-<br/>
-
-### &#x1f680; Featured Projects
-
-<table align="center" style="border: none;">
-<tr>
-<td align="center" width="50%" style="border: none; padding: 12px;">
-<a href="https://github.com/ldb0071/video_generation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ldb0071&repo=video_generation&theme=tokyonight&bg_color=1a1b27&border_color=00D9FF&title_color=00D9FF&text_color=a9b1d6&icon_color=FF6B35" alt="Video Generation App" />
-</a>
-<p><strong>Video Generation App</strong> — RAG-powered AI with DALL·E 3 and Replicate. FastAPI, React, Computer Vision, Generative AI.</p>
-</td>
-<td align="center" width="50%" style="border: none; padding: 12px;">
-<a href="https://github.com/ldb0071/Boosting-House-Price-Estimations-with-Multi-Head-Gated-Attention">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ldb0071&repo=Boosting-House-Price-Estimations-with-Multi-Head-Gated-Attention&theme=tokyonight&bg_color=1a1b27&border_color=00D9FF&title_color=00D9FF&text_color=a9b1d6&icon_color=FF6B35" alt="House Price ML" />
-</a>
-<p><strong>House Price ML Model</strong> — Multi-head gated attention for price prediction. Deep Learning, Attention, Regression.</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" style="border: none; padding: 12px;">
-<a href="https://github.com/ldb0071/Photoshop_Preprocessing">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ldb0071&repo=Photoshop_Preprocessing&theme=tokyonight&bg_color=1a1b27&border_color=00D9FF&title_color=00D9FF&text_color=a9b1d6&icon_color=FF6B35" alt="Photoshop Preprocessing" />
-</a>
-<p><strong>Image Preprocessing Suite</strong> — Professional image utilities and enhancement tools. Computer Vision, OpenCV.</p>
-</td>
-<td align="center" width="50%" style="border: none; padding: 12px;">
-<a href="https://github.com/ldb0071/Mesh_3d">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ldb0071&repo=Mesh_3d&theme=tokyonight&bg_color=1a1b27&border_color=00D9FF&title_color=00D9FF&text_color=a9b1d6&icon_color=FF6B35" alt="3D Mesh" />
-</a>
-<p><strong>3D Mesh Processing</strong> — 3D geometry processing and visualization. TypeScript, 3D Graphics.</p>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=divider" alt="divider" />
-
-<br/>
-
-### &#x1f4ca; GitHub Analytics
-
-<table align="center" style="border: none;">
-<tr>
-<td align="center" style="border: none; padding: 8px;">
-  <a href="https://github.com/ldb0071"><img src="https://github-readme-stats.vercel.app/api?username=ldb0071&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=FF6B35&text_color=a9b1d6" height="180" alt="GitHub Stats" /></a>
-</td>
-<td align="center" style="border: none; padding: 8px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ldb0071&theme=tokyonight&hide_border=true&background=1a1b27&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideNums=a9b1d6&currStreakNum=00D9FF&dates=a9b1d6" height="180" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldb0071&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&text_color=a9b1d6&langs_count=8" alt="Top Languages" />
-</p>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=divider" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,8,12,20,30&height=3&section=divider" alt="divider" />
 
 <br/>
 
@@ -186,6 +186,6 @@ PhD work in intelligent systems
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Thank+You&fontSize=36&fontColor=ffffff&animation=twinkling" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,12,20,30&height=100&section=footer&text=Thank+You&fontSize=36&fontColor=ffffff&animation=twinkling" alt="footer" />
 
 </div>

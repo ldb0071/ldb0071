@@ -8,8 +8,8 @@
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 20px 0;">
   <img src="https://img.shields.io/badge/🎓_PhD_Student-0078D4?style=for-the-badge&logoColor=white" alt="PhD Student" />
-  <img src="https://img.shields.io/badge/🤖_AI_Engineer_Engineer-FF6B35?style=for-the-badge&logoColor=white" alt="AI Engineer" />
-  <img src="https://img.shields.io/badge/👁️_Computer_Vision-00D9FF?style=for-the-badge&logoColor=white" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/🤖_AI_Engineer-FF6B35?style=for-the-badge&logoColor=white" alt="AI Engineer" />
+  <img src="https://img.shields.io/badge/👁️_Computer_Vision_Engineer-00D9FF?style=for-the-badge&logoColor=white" alt="Computer Vision" />
   <img src="https://img.shields.io/badge/📍_Italy-28A745?style=for-the-badge&logoColor=white" alt="Location Italy" />
 </div>
 

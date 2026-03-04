@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=1200&q=80" width="100%" alt="Header — code" />
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" alt="Programming meme" />
 
 <p align="center" style="margin: 12px 0;">
   <strong style="font-size: 1.8em;">ZAKARIA</strong><br/>

@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=680&height=90&lines=Welcome+to+my+digital+workspace+%F0%9F%9A%80;Computer+Vision+Engineer+%26+AI+Researcher" alt="Typing SVG" />
 
 <p align="center" style="margin: 16px 0;">
-  <img src="https://img.shields.io/badge/Computer_Vision_Engineer-00D9FF?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision Engineer" />
+  <img src="https://img.shields.io/badge/Computer_Vision_Engineer-00D9FF?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision & AI Engineer" />
   &nbsp;
   <img src="https://img.shields.io/badge/PhD_Student-0078D4?style=for-the-badge&logo=book&logoColor=white" alt="PhD Student" />
   &nbsp;

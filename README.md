@@ -5,11 +5,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=680&height=90&lines=Welcome+to+my+digital+workspace+%F0%9F%9A%80;Computer+Vision+Engineer+%26+AI+Researcher" alt="Typing SVG" />
 
 <p align="center" style="margin: 16px 0;">
-  <img src="https://img.shields.io/badge/Computer_Vision_Engineer-00D9FF?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision & AI Engineer" />
+  <img src="https://img.shields.io/badge/Computer_Vision_Engineer-00D9FF?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision Engineer" />
   &nbsp;
-  <img src="https://img.shields.io/badge/PhD_Student-0078D4?style=for-the-badge&logo=book&logoColor=white" alt="PhD Student" />
+  <img src="https://img.shields.io/badge/AI_Researcher-0078D4?style=for-the-badge&logo=book&logoColor=white" alt="AI Researcher" />
   &nbsp;
-  <img src="https://img.shields.io/badge/AI_Researcher-FF6B35?style=for-the-badge&logo=pytorch&logoColor=white" alt="AI Researcher" />
+  <img src="https://img.shields.io/badge/AI_Engineer-FF6B35?style=for-the-badge&logo=pytorch&logoColor=white" alt="AI Engineer" />
   &nbsp;
   <img src="https://img.shields.io/badge/Italy-28A745?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Italy" />
 </p>
